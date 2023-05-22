@@ -5,6 +5,6 @@
 
 .foo {
     width: 100px;
-    maring: 10px;
-    color: yellow;
+    color: white;
+    margin: 0;
 }
