@@ -6,4 +6,6 @@ const arrow = () => true;
 function toDo() {}
 
 const o = 13;
-
+const j = 16;
+const u = 'aaaa';
+const u3 = 'vbbb';
